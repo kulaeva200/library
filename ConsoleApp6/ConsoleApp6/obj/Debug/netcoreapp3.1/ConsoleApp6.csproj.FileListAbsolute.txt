@@ -1,0 +1,17 @@
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.exe
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.deps.json
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.json
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.runtimeconfig.dev.json
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.dll
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ConsoleApp6.pdb
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ClassLibrary2.dll
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\netcoreapp3.1\ClassLibrary2.pdb
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.AssemblyReference.cache
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfoInputs.cache
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.AssemblyInfo.cs
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.csproj.CopyComplete
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.dll
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.pdb
+C:\Users\kulla\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\netcoreapp3.1\ConsoleApp6.genruntimeconfig.cache
